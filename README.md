@@ -1,7 +1,7 @@
 # Installation #
 1. Install a webserver
 2. Install PHP
-3. Create a new folder called "up" in the same directory of index.php
+3. Create a new folder called "lo" in the same directory of index.php
 4. `chmod 755 lo`
 5. That's it
 
